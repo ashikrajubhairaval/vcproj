@@ -1,1 +1,2 @@
 this project was updated using git
+updating a file after cloning repository 
